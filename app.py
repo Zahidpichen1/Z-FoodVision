@@ -10,3 +10,4 @@ from torchinfo import summary
 from torchvision import transforms
 import urllib.request
 import os
+import gradio as g
